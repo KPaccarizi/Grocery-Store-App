@@ -1,0 +1,4 @@
+The "Grocery Store App" will have one database consisting of two tables.
+The first table will be named "Products" and will contain the name of the product and its quantity. 
+The second table will be named "Orders" and will include the name of the product, its quantity, date, and place (selected from a drop-down menu). 
+The app will have CRUD operations for both tables.
